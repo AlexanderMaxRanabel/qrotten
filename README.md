@@ -1,2 +1,2 @@
 # qrotten
-a simple tarball decompressor writte  in v
+a simple tarball decompressor writte  in C
